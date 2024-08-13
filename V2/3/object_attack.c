@@ -2,7 +2,7 @@
 
 int main () {
     /* call hidden function from object.o with the "key1 key2" argument */
-    bypass_surgery("blue lips pulse and rapid breathing", 0xf00dbabe);
+    bypass_surgery("key1 key2", argument);
 
     return 0;
 }
